@@ -1,0 +1,10 @@
+Django==2.2.7
+django-cors-headers==3.2.0
+django-uuslug==1.1.9
+djangorestframework==3.10.3
+djangorestframework-jwt==1.11.0
+PyJWT==1.7.1
+python-slugify==4.0.0
+pytz==2019.3
+sqlparse==0.3.0
+text-unidecode==1.3
